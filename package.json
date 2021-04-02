@@ -2,6 +2,6 @@
     "name": "test",
     "version": "1.0.0",
     "description": "A test truc",
-    "main": "index.js",
-    "author": "Quethulhu"
+    "author": "Quethulhu",
+    "license": "MIT"
 }
